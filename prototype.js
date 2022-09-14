@@ -14,8 +14,7 @@ String.prototype.customeLenth = function ()
 {
     return this.length + 2;
 }
-var a = 2;
-
+var a = 2323
 let users = {
     getFullName: function ()
     {
