@@ -38,3 +38,5 @@ function getId()
     // console.log(sG.next())
     document.getElementById("did").innerText = sG.next().value;
 }
+
+var b = 20;
