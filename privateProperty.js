@@ -23,5 +23,8 @@ class BankAccount
     }
 }
 
-const details = new BankAccount();
-console.log(details.getDetails())
+function getDetails()
+{
+    const details = new BankAccount();
+    console.log(details.getDetails())
+}
