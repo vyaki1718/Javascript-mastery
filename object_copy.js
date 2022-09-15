@@ -32,7 +32,7 @@ let obj = {
     },
     getData: function ()
     {
-
+        return this.name;
     }
 
 }
