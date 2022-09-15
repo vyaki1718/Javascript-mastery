@@ -39,4 +39,3 @@ function getId()
     document.getElementById("did").innerText = sG.next().value;
 }
 
-var b = 20;
