@@ -81,3 +81,8 @@ for (item in emp)
     salary += emp[item];
 }
 console.log(salary)
+
+// loop in object
+for(item in obj){
+    console.log(obj.item)
+}
