@@ -86,3 +86,4 @@ console.log(salary)
 for(item in obj){
     console.log(obj.item)
 }
+//
